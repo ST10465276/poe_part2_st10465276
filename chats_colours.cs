@@ -12,7 +12,7 @@ namespace part2
         public void ai_chats(string ai_name, ListView chats_view, string ai_answer) 
         {//start of ai_chats method
 
-            //setting the colors
+            //setting the ai and ai messages colours
             chats_view.Items.Add(
                 new TextBlock
                 {
