@@ -9,13 +9,13 @@ namespace part2
         public Greet_users()
         {//start of constructor
 
-            //now get the loctaion of the project
+            //get the location of the project
             string project_location = AppDomain.CurrentDomain.BaseDirectory;
 
             //check if it is getting the Directory
             //Console.WriteLine(project_location);
 
-            //replacing the bin\\Debug\\ so it can get the sound
+            //replace the bin\\Debug\\ so it can get the sound
             string updated_path = project_location.Replace("bin\\Debug\\", "");
 
             //combining the wav name as greeting.wav with the updated path
@@ -39,13 +39,15 @@ namespace part2
 
                     //playing the sound till the end
                     player.Play();
+                    
                 }//end of using
 
             }
             catch (Exception error)
             {
-                //display error message
+                //display error message for the sound
                 Console.WriteLine(error.Message);
+                
             }//end of try and catch 
 
         }//end of play_sound method
