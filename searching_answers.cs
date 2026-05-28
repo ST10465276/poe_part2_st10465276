@@ -81,6 +81,11 @@ namespace part2
             add_answers.Add("confused let me break it down step by step so it makes sense.");
             add_answers.Add("confused no worries, i'll help you understand it clearer.");
             add_answers.Add("confused let's find out what is unclear so i can give you a better explaination.");
+
+            add_answers.Add("curious it is always good to have a bit of curiosity, ask any question.");
+            add_answers.Add("curious being curious can help you learn more about safety tips.");
+            add_answers.Add("curious do not feel bad for being curious, instead i encourage you to ask more about your online security.");
+            add_answers.Add("curious curiosity is the first step to learning, so what do you wnat to learn about?");
           
             add_answers.Add("happy that's fantastic to hear! i'm glad things are going well.");
             add_answers.Add("happy awesome! positivity is the best.");
