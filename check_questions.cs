@@ -15,7 +15,6 @@ namespace part2
         //with an object name called get_chats_color
         chats_colours get_chats_color = new chats_colours();
 
-
         //creating an instance for the searching answers class
         //with an object name searching
         searching_answers searching = new searching_answers();
@@ -227,7 +226,6 @@ namespace part2
                 else
                 {//start of else
 
-
                     //display error message for message not found
                     //error message with text color red
                     message = "i didn't quite understand that. could you please rephrase your question?";
@@ -250,13 +248,13 @@ namespace part2
 
         //method to auto store
         private void auto_store()
-        {
+        {//start of auto_store method
+            
             //store answers before user interaction
             ai_answers = answers.return_answers();
 
             //store questions before user interaction
             ai_questions = answers.user_questions();
-
 
             //store the ignore
             ignore = answers.ignores();
@@ -264,7 +262,7 @@ namespace part2
             //then assign to true
             stored = true;
 
-        }
+        }//end of auto_store method
 
         //check questions
         public Boolean question_check(string question, ListView chats_view)
@@ -274,11 +272,11 @@ namespace part2
             {//start of if 
 
                 return true;
-            }
+            }//end of if
             else
-            {
-                get_chats_color.ai_error("CyberBot", chats_view, "Please enter a question related to cybersecurity, to get a response.....");
-            }
+            {//start of else
+                get_chats_color.ai_error("CyberBot", chats_view, "Please enter a question related to cybersecurity, to get a response...");
+            }//end of else
 
             return false;
 
