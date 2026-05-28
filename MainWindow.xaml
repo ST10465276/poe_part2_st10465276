@@ -1,0 +1,162 @@
+﻿<Window x:Class="part2.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:part2"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="450" Width="800">
+    <Grid>
+        <!--start of parent grid-->
+        <Image
+           Source="/image1.jpg"
+            />
+
+        <Grid
+            x:Name="logo_grid"
+            Visibility="Visible">
+            <!--start of logo grid-->
+
+            <!--displaying the logo image-->
+            <Image  
+                Source="/logo.png"
+                Height="200"
+                Width="250"
+                Margin="0,0,0,150"
+                
+                />
+            <!--Displaying a message-->
+            <TextBlock  
+                Height="50"
+                Width="400"
+                Margin="0,150,0,0"
+                Text="Welcome to CyberBot, Click start to proceed"
+                FontFamily="Rockwell"
+                FontSize="19"
+                />
+            <!--Creating a start button-->
+            <Button 
+                Height="50"
+                Width="150"
+                Margin="0,240,0,0"
+                Content="Start CyberBot"
+                FontFamily="Rockwell"
+                Click="start_click"
+                
+                />
+
+        </Grid>
+        <!--end of logo grid-->
+
+        <Grid
+            x:Name="username_grid"
+            Visibility="Hidden"
+            >
+            <!--start of asking for username grid-->
+
+            <!--displaying the logo-->
+            <Image  
+                Source="/logo.png"
+                Height="100"
+                Width="150"
+                Margin="0,0,0,300"
+                />
+
+            <!--displaying the welcoming message-->
+            <TextBlock  
+                Height="60"
+                Width="350"
+                Margin="0,0,0,50"
+                FontSize="17"
+                FontFamily="Rockwell"
+                TextAlignment="Center"               
+                >
+                
+                Welcome to CyberBot
+                <LineBreak />
+                I'm here to assist you with you online safety
+            </TextBlock
+                >
+
+            <!--labeling the textbox-->
+            <TextBlock
+                Height="50"
+                Width="250"
+                Margin="0,80,90,0"
+                Text="Username"
+                Foreground="DarkMagenta"
+                TextAlignment="Center"
+                FontSize="15"
+                />
+
+            <!--TextBox-->
+            <TextBox  
+                Height="50"
+                Width="250"
+                Margin="0,130,90,0"
+                x:Name="user_input"
+               
+                />
+
+            <!--textblock for error message-->
+            <TextBlock
+                x:Name="error_username"
+                Height="50"
+                Width="250"
+                Margin="0,250,90,0"
+                Foreground="DarkRed"
+                Text="Username required!"
+                TextAlignment="Center"
+                FontSize="15"
+                />
+
+            <!--Button for submiting the name-->
+            <Button  
+                Height="50"
+                Width="250"
+                Margin="0,300,90,0"
+                Content="submit username"
+                Click="submit_username"
+                
+                />
+        </Grid>
+        <!--end of asking username grid-->
+        <Grid
+            x:Name="chat_grid"
+            Visibility="Hidden"
+            >
+            <!--start of chatting grid-->
+
+            <!--using a listview for chatting-->
+            <ListView  
+                x:Name="chats_view"
+                Height="300"
+                Width="600"
+                Margin="0,0,0,90"
+                Background="LightBlue"
+                />
+
+            <!--Textbox for user entering question-->
+            <TextBox  
+                x:Name="enter_question"
+                Height="50"
+                Width="350"
+                Margin="0,300,250,0"
+                
+                />
+
+            <!--sending a question button-->
+            <Button  
+            Height="50"
+            Width="210"
+            Margin="390,300,0,0"
+            Content="send question"
+            Click="send_question"
+                
+                />
+
+        </Grid>
+        <!--end of chatting grid-->
+    </Grid>
+    <!--end of parent grid-->
+</Window>
