@@ -1,0 +1,64 @@
+C:\Users\27658\source\repos\part2\bin\Debug\part2.exe.config
+C:\Users\27658\source\repos\part2\bin\Debug\part2.exe
+C:\Users\27658\source\repos\part2\bin\Debug\part2.pdb
+C:\Users\27658\source\repos\part2\obj\Debug\part2.csproj.AssemblyReference.cache
+C:\Users\27658\source\repos\part2\obj\Debug\MainWindow.g.cs
+C:\Users\27658\source\repos\part2\obj\Debug\App.g.cs
+C:\Users\27658\source\repos\part2\obj\Debug\part2_Content.g.cs
+C:\Users\27658\source\repos\part2\obj\Debug\part2_MarkupCompile.cache
+C:\Users\27658\source\repos\part2\obj\Debug\part2_MarkupCompile.lref
+C:\Users\27658\source\repos\part2\obj\Debug\MainWindow.baml
+C:\Users\27658\source\repos\part2\obj\Debug\part2.g.resources
+C:\Users\27658\source\repos\part2\obj\Debug\part2.Properties.Resources.resources
+C:\Users\27658\source\repos\part2\obj\Debug\part2.csproj.GenerateResource.cache
+C:\Users\27658\source\repos\part2\obj\Debug\part2.csproj.CoreCompileInputs.cache
+C:\Users\27658\source\repos\part2\obj\Debug\part2.exe
+C:\Users\27658\source\repos\part2\obj\Debug\part2.pdb
+C:\Users\DeLL\Downloads\1778517278_6a02051e51173\part2\bin\Debug\part2.exe.config
+C:\Users\DeLL\Downloads\1778517278_6a02051e51173\part2\bin\Debug\part2.exe
+C:\Users\DeLL\Downloads\1778517278_6a02051e51173\part2\bin\Debug\part2.pdb
+C:\Users\DeLL\Downloads\1778517278_6a02051e51173\part2\obj\Debug\part2.csproj.AssemblyReference.cache
+C:\Users\DeLL\Downloads\1778517278_6a02051e51173\part2\obj\Debug\MainWindow.g.cs
+C:\Users\DeLL\Downloads\1778517278_6a02051e51173\part2\obj\Debug\App.g.cs
+C:\Users\DeLL\Downloads\1778517278_6a02051e51173\part2\obj\Debug\part2_Content.g.cs
+C:\Users\DeLL\Downloads\1778517278_6a02051e51173\part2\obj\Debug\part2_MarkupCompile.cache
+C:\Users\DeLL\Downloads\1778517278_6a02051e51173\part2\obj\Debug\part2_MarkupCompile.lref
+C:\Users\DeLL\Downloads\1778517278_6a02051e51173\part2\obj\Debug\MainWindow.baml
+C:\Users\DeLL\Downloads\1778517278_6a02051e51173\part2\obj\Debug\part2.g.resources
+C:\Users\DeLL\Downloads\1778517278_6a02051e51173\part2\obj\Debug\part2.Properties.Resources.resources
+C:\Users\DeLL\Downloads\1778517278_6a02051e51173\part2\obj\Debug\part2.csproj.GenerateResource.cache
+C:\Users\DeLL\Downloads\1778517278_6a02051e51173\part2\obj\Debug\part2.csproj.CoreCompileInputs.cache
+C:\Users\DeLL\Downloads\1778517278_6a02051e51173\part2\obj\Debug\part2.exe
+C:\Users\DeLL\Downloads\1778517278_6a02051e51173\part2\obj\Debug\part2.pdb
+C:\Users\27658\Downloads\1778867642_part2 (1)\part2\bin\Debug\part2.exe.config
+C:\Users\27658\Downloads\1778867642_part2 (1)\part2\bin\Debug\part2.exe
+C:\Users\27658\Downloads\1778867642_part2 (1)\part2\bin\Debug\part2.pdb
+C:\Users\27658\Downloads\1778867642_part2 (1)\part2\obj\Debug\part2.csproj.AssemblyReference.cache
+C:\Users\27658\Downloads\1778867642_part2 (1)\part2\obj\Debug\MainWindow.g.cs
+C:\Users\27658\Downloads\1778867642_part2 (1)\part2\obj\Debug\App.g.cs
+C:\Users\27658\Downloads\1778867642_part2 (1)\part2\obj\Debug\part2_Content.g.cs
+C:\Users\27658\Downloads\1778867642_part2 (1)\part2\obj\Debug\part2_MarkupCompile.cache
+C:\Users\27658\Downloads\1778867642_part2 (1)\part2\obj\Debug\part2_MarkupCompile.lref
+C:\Users\27658\Downloads\1778867642_part2 (1)\part2\obj\Debug\MainWindow.baml
+C:\Users\27658\Downloads\1778867642_part2 (1)\part2\obj\Debug\part2.g.resources
+C:\Users\27658\Downloads\1778867642_part2 (1)\part2\obj\Debug\part2.Properties.Resources.resources
+C:\Users\27658\Downloads\1778867642_part2 (1)\part2\obj\Debug\part2.csproj.GenerateResource.cache
+C:\Users\27658\Downloads\1778867642_part2 (1)\part2\obj\Debug\part2.csproj.CoreCompileInputs.cache
+C:\Users\27658\Downloads\1778867642_part2 (1)\part2\obj\Debug\part2.exe
+C:\Users\27658\Downloads\1778867642_part2 (1)\part2\obj\Debug\part2.pdb
+C:\Users\27658\OneDrive - ADvTECH Ltd\Desktop\Wanga School\1778867642_part2 (1)\part2\bin\Debug\part2.exe.config
+C:\Users\27658\OneDrive - ADvTECH Ltd\Desktop\Wanga School\1778867642_part2 (1)\part2\bin\Debug\part2.exe
+C:\Users\27658\OneDrive - ADvTECH Ltd\Desktop\Wanga School\1778867642_part2 (1)\part2\bin\Debug\part2.pdb
+C:\Users\27658\OneDrive - ADvTECH Ltd\Desktop\Wanga School\1778867642_part2 (1)\part2\obj\Debug\part2.csproj.AssemblyReference.cache
+C:\Users\27658\OneDrive - ADvTECH Ltd\Desktop\Wanga School\1778867642_part2 (1)\part2\obj\Debug\MainWindow.g.cs
+C:\Users\27658\OneDrive - ADvTECH Ltd\Desktop\Wanga School\1778867642_part2 (1)\part2\obj\Debug\App.g.cs
+C:\Users\27658\OneDrive - ADvTECH Ltd\Desktop\Wanga School\1778867642_part2 (1)\part2\obj\Debug\part2_Content.g.cs
+C:\Users\27658\OneDrive - ADvTECH Ltd\Desktop\Wanga School\1778867642_part2 (1)\part2\obj\Debug\part2_MarkupCompile.cache
+C:\Users\27658\OneDrive - ADvTECH Ltd\Desktop\Wanga School\1778867642_part2 (1)\part2\obj\Debug\part2_MarkupCompile.lref
+C:\Users\27658\OneDrive - ADvTECH Ltd\Desktop\Wanga School\1778867642_part2 (1)\part2\obj\Debug\MainWindow.baml
+C:\Users\27658\OneDrive - ADvTECH Ltd\Desktop\Wanga School\1778867642_part2 (1)\part2\obj\Debug\part2.g.resources
+C:\Users\27658\OneDrive - ADvTECH Ltd\Desktop\Wanga School\1778867642_part2 (1)\part2\obj\Debug\part2.Properties.Resources.resources
+C:\Users\27658\OneDrive - ADvTECH Ltd\Desktop\Wanga School\1778867642_part2 (1)\part2\obj\Debug\part2.csproj.GenerateResource.cache
+C:\Users\27658\OneDrive - ADvTECH Ltd\Desktop\Wanga School\1778867642_part2 (1)\part2\obj\Debug\part2.csproj.CoreCompileInputs.cache
+C:\Users\27658\OneDrive - ADvTECH Ltd\Desktop\Wanga School\1778867642_part2 (1)\part2\obj\Debug\part2.exe
+C:\Users\27658\OneDrive - ADvTECH Ltd\Desktop\Wanga School\1778867642_part2 (1)\part2\obj\Debug\part2.pdb
