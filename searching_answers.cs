@@ -4,100 +4,98 @@ namespace part2
 {//start of namespace
     public class searching_answers
     {//start of class
-
         //creating a method called return_answers for answers
         public ArrayList return_answers()
         {//start of method
 
             ArrayList add_answers = new ArrayList();
-
-      
-            add_answers.Add("greeting i'm doing well, thanks for asking! how are you doing today ?");
-            add_answers.Add("greeting i'm great today, thanks for asking! how can i help you today ?");
-            add_answers.Add("greeting doing good! hope you are also doing well today ?");
-            add_answers.Add("greeting i'm good, how can can i assist you today?");
+            
+            add_answers.Add("greeting i'm doing well, thanks for asking! how are you doing ?");
+            add_answers.Add("greeting i'm great, so how can i help you ?");
+            add_answers.Add("greeting i'm doing good! hope you are also well ?");
+            add_answers.Add("greeting i'm wonderful, how may i provide assistance ?");
            
-            add_answers.Add("purpose my purpose is to educate you on how to stay safe online and guide your cybersecurity questions.");
-            add_answers.Add("purpose i help users understand online safety and digital protection.");
-            add_answers.Add("purpose i assist with cybersecurity awareness and safety guidance.");
-            add_answers.Add("purpose my purpose is to guide you on how to protect your personal information online");
+            add_answers.Add("purpose my purpose is to educate you on waysto stay safe online and guide you on your questions.");
+            add_answers.Add("purpose is helping users get a better understanding on online safety and digital protection.");
+            add_answers.Add("purpose is to assist with cybersecurity awareness and safety guidance.");
+            add_answers.Add("purpose i will guide you on ways to protect your personal information on the internet");
            
-            add_answers.Add("cybersecurity cybersecurity is about protecting systems and networks from digital threats.");
-            add_answers.Add("cybersecurity it involves protecting devices and online accounts from attacks.");
-            add_answers.Add("cybersecurity it focuses on securing digital information and systems.");
-            add_answers.Add("cybersecurity cybersecurity reduces security risks and protects users from cybercrime and online attacks");
+            add_answers.Add("cybersecurity it is about protecting systems and networks from digital threats.");
+            add_answers.Add("cybersecurity involves safegurading devices and digital accounts from attacks.");
+            add_answers.Add("cybersecurity focuses on securing digital information and systems.");
+            add_answers.Add("cybersecurity reduces security risks and protects users from cybercrimes.");
 
             add_answers.Add("phishing phishing is a scam where attackers pretend to be trusted sources to steal information.");
             add_answers.Add("phishing be cautious of emails asking for your personal information");
-            add_answers.Add("phishing it uses fake messages or websites to trick users into revealing sensitive data.");
-            add_answers.Add("phishing attackers use deception to make users believe they are legitimate.");
+            add_answers.Add("phishing fake messages or websites are used to trick people into revealing sensitive data.");
+            add_answers.Add("phishing these cybercriminals use deception to make individuals believe that they are legitimate.");
 
             add_answers.Add("firewall a firewall controls network traffic based on security rules.");
             add_answers.Add("firewall it helps block unwanted access to your device or network.");
-            add_answers.Add("firewall it acts as a protective barrier between trusted and untrusted networks.");
-            add_answers.Add("firewall a firewall prevents hackers or cyber threats from accessing a system");
+            add_answers.Add("firewall acts as a protective barrier between trusted and untrusted sources.");
+            add_answers.Add("firewall prevents hackers or cyber threats from accessing a system.");
          
-            add_answers.Add("password a password is used to secure access to your accounts or devices.");
+            add_answers.Add("password passwordas are used to keep your accounts or devices locked from unauthorized access.");
             add_answers.Add("password it should be strong, long and not easy to guess.");
             add_answers.Add("password avoid using personal details like birth dates when creating one.");
-            add_answers.Add("password do not reuse the same password for different accounts");
+            add_answers.Add("password must not reuse the same password for different accounts.");
 
             add_answers.Add("privacy check privacy settings online to control who can view your information ");
-            add_answers.Add("privacy update your apps regularly to be protected against security vulnerabilities online.");
+            add_answers.Add("privacy update your apps regularly to be guarded against security vulnerabilities online.");
             add_answers.Add("privacy do not click on suspicious links to maintain your privacy");
-            add_answers.Add("privacy check app permissions frequently and disable access to unnecessary information");
+            add_answers.Add("privacy review app permissions frequently and disable access to unnecessary information.");
 
             add_answers.Add("hacked account immediately secure your account and log out of all devices.");
             add_answers.Add("hacked account contact support if your account has been compromised.");
             add_answers.Add("hacked account enable extra security like two-factor authentication.");
-            add_answers.Add("hacked account update your recovery email and phone number if they were changed by the attacker ");
+            add_answers.Add("hacked account update your recovery email and phone number if they were changed by the scammer. ");
           
             add_answers.Add("fraud contact your bank immediately if fraud is detected.");
             add_answers.Add("fraud report suspicious financial activity to the authorities.");
             add_answers.Add("fraud monitor your accounts for unusual activity.");
-            add_answers.Add("fraud run a security scan on your device using updated antivirus");
+            add_answers.Add("fraud run a security scan on your device using updated antivirus.");
          
             add_answers.Add("malicious chatbot malicious bots often create a sense of urgency to trick users.");
             add_answers.Add("malicious chatbot fake chatbots may ask for sensitive information.");
             add_answers.Add("malicious chatbot be cautious if a bot pressures you for personal data.");
-            add_answers.Add("malicious chatbot inconsistent information or poor grammar can indicate a malicious or fake chatbot");
+            add_answers.Add("malicious chatbot poor grammar can indicate a scam chatbot");
            
-            add_answers.Add("vpn a vpn helps protect your personal details on public wi-fi.");
+            add_answers.Add("vpn a vpn helps protect your private details on a public wi-fi.");
             add_answers.Add("vpn it encrypts your internet traffic for safety.");
-            add_answers.Add("vpn it improves security when using public networks.");
+            add_answers.Add("vpn improves security when using public networks.");
             add_answers.Add("vpn it creates a secure connection between your device and the internet");
 
             //sentiment detection answers
            
-            add_answers.Add("frustrated i understand you're frustrated. let's work through the issue step by step.");
+            add_answers.Add("frustrated i understand you're frustrated. let's work through the issue.");
             add_answers.Add("frustrated it's okay to feel frustrated when things aren't working. i'm here to help.");
             add_answers.Add("frustrated take a breath, we'll fix this together.");
             add_answers.Add("frustrated it's normal to feel frustrated sometimes but we can work through it together.");
 
-            add_answers.Add("worried it's okay to feel worried. i'm here to help you stay safe online.");
+            add_answers.Add("worried it's understandable to feel worried. i'm here to help you stay safe online.");
             add_answers.Add("worried don't panic, most cybersecurity issues can be fixed quickly.");
             add_answers.Add("worried i understand your concern. let's make sure your information is safe.");
-            add_answers.Add("worried don't feel too worried. let's go through the situation carefully and see how you can be protected.");
+            add_answers.Add("worried don't feel too worried. let's go through the situation carefully.");
 
-            add_answers.Add("confused that's okay, confusion is normal. i'll explain it clearly for you.");
+            add_answers.Add("confused confusion is normal. i'll explain it clearly for you.");
             add_answers.Add("confused let me break it down step by step so it makes sense.");
-            add_answers.Add("confused no worries, i'll help you understand it better.");
-            add_answers.Add("confused let's find out what is unclear so i can give you a clearer explaination.");
+            add_answers.Add("confused no worries, i'll help you understand it clearer.");
+            add_answers.Add("confused let's find out what is unclear so i can give you a better explaination.");
           
-            add_answers.Add("happy that's great to hear! i'm glad things are going well.");
-            add_answers.Add("happy awesome! positivity is always good.");
+            add_answers.Add("happy that's fantastic to hear! i'm glad things are going well.");
+            add_answers.Add("happy awesome! positivity is the best.");
             add_answers.Add("happy i'm happy for you! let me know if you need anything.");
             add_answers.Add("happy i'm pleased that the information is helpful to you. ");
             
-            add_answers.Add("sad i'm sorry you're feeling this way. i'm here for you.");
+            add_answers.Add("sad i'm sorry you're feeling this way. i'm here for you always.");
             add_answers.Add("sad that sounds tough, take things one step at a time.");
             add_answers.Add("sad i hope things improve soon. you can talk to me anytime.");
             add_answers.Add("sad so sad to hear that. i hope i can help you get through it");
             
-            add_answers.Add("angry i understand you're angry. let's try solve the issue together.");
+            add_answers.Add("angry i understand your anger. let's try solve the issue together.");
             add_answers.Add("angry it's okay to feel angry, but i'll help you fix the problem.");
             add_answers.Add("angry take your time, i'm here to help you sort it out.");
-            add_answers.Add("angry take a breath and let's try to find the best solution for yor problem");
+            add_answers.Add("angry take a breath and let us see what the best solution is for your problem.");
 
             //return all answers
             return add_answers;
